@@ -1,3 +1,4 @@
 I am a git fold.
 Git is a free softword.
 OK, i will update this txt
+//Git has a mutable index called stage.
